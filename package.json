@@ -20,6 +20,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bugs": {
+    "url": "https://github.com/NIR0-V/Super-ticket-bot-by-niro/issues"
+  },
+  "homepage": "https://github.com/NIR0-V/Super-ticket-bot-by-niro#readme",
   "keywords": [
     "niro"
   ],
