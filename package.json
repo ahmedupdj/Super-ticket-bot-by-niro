@@ -6,7 +6,7 @@
   "dependencies": {   
     "cpu-stat": "^2.0.1",
     "date-and-time": "^0.14.2",
-    "discord.js": "^12.5.1",
+    "discord.js": "^11.5.1",
     "express": "^4.17.1",
     "hastebin": "^0.2.1",
     "moment": "^2.29.1",
