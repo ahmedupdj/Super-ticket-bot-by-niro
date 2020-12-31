@@ -26,7 +26,7 @@ fs.readdir("./commands/", (err, files) => {
 
   jsfile.forEach((f, i) =>{
     let props = require(`./commands/${f}`);
-    console.log(`${f} loaded!`);
+    console.log(`${f} loaded! NIRO DEVELOMENT`);
     bot.commands.set(props.help.name, props);
     props.help.aliases.forEach(alias => { 
       bot.aliases.set(alias, props.help.name);
@@ -67,4 +67,4 @@ bot.on("ready", async () => {
 
 
 
-bot.login(process.env.TOKEN);
+bot.login(process.env.NIRO_TOKEN);
