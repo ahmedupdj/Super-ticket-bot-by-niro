@@ -1,11 +1,5 @@
-# **Super ticket bot By ニロ#3892**
+# Ticket Bot - By NIRO
 
-**ニロ Meen Niro 🙃**
-## 💨 Run the projects
-repl.it: [Remix on Repl.it](https://repl.it/@NIR0/super-ticket-bot-by-niro#README.md)
-## ✨ Mad By
+All Copyright ©️ Go's To : `@ニロ#3892 `
 
-```@ニロ#3892```
-
-## 🔨 Support
-our discord server is [here](https://discord.gg/trpjk9NbEZ)
+Our Youtube channel is [Here](https://youtube.com/channel/UC7QtAaqlUhBmMojJISSLJkg)

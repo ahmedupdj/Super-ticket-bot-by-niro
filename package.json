@@ -1,0 +1,19 @@
+{
+  "name": "ticketbot-by-niro",
+  "version": "1.0.0",
+  "description": "super-ticket-bot-by-niro-and-naar-team",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "niro"
+  ],
+  "author": "all-copyright-go-to-niro",
+  "license": "ISC"
+}
